@@ -26,7 +26,7 @@ Com isso:
 2 - o roteiro inicia uma thread de automação de navegador por usuário;
 3 - o roteiro baixa os docs conforme parâmetros na pasta definida.
 
-Uma vez baixado os docs, não é difícil escrever pequenos roteiros para, entre outros, quais docs deveriam ser baixados, quais faltam.
+Uma vez baixado os docs, não é difícil escrever pequenos roteiros para, entre outros, verificar quais docs deveriam ser baixados, quais faltam.
 Isso porque cada doc é baixado com um nome cujos 25 primeiros caracteres são o número do processo de origem.
 
 
